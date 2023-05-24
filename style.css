@@ -1,6 +1,7 @@
 html, body{
     height: 100%;
     width: 100%;
+    background-color: brown;
 }
 
 .button{
@@ -14,9 +15,10 @@ html, body{
     margin: 8px 0;
 }
 .row input{
-  
+    width: 291PX;
+    font-size: 20PX;
     margin: 0;
-    padding: 10px 38px;
+    padding: 10px 0px;
     border-radius: 5px;
     border: 2px solid black;
 }
